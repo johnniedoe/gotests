@@ -11,7 +11,7 @@ import (
 	"go/types"
 	"io/ioutil"
 
-	"github.com/cweill/gotests/internal/models"
+	"github.com/johnniedoe/gotests/internal/models"
 )
 
 // ErrEmptyFile represents an empty file error.

@@ -3,6 +3,6 @@ package {{.Package}}
 
 import (
 {{range .Imports}}{{.Name}} {{.Path}}
-{{end}}
+{{end}}. "github.com/smartystreets/goconvey/convey"
 )
 {{end}}
