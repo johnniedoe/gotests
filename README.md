@@ -13,7 +13,7 @@ The following shows `gotests` in action using the [official Sublime Text 3 plugi
 Use [`go get`](https://golang.org/cmd/go/#hdr-Download_and_install_packages_and_dependencies) to install and update:
 
 ```sh
-$ go get -u github.com/cweill/gotests/...
+$ go get -u github.com/johnniedoe/gotests/...
 ```
 
 ## Usage
